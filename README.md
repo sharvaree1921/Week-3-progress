@@ -139,9 +139,11 @@ OpenCV stores images in form of B,G,R format but not in R,G,B format.
       res = cv2.matchTemplate(grey_img, template, cv2.TM_CCORR_NORMED )
    ```
 24. Hough Line Transform using Hough Line Method
-   [Understand here](https://github.com/MananKGarg/SOC_20_Virtual_Keyboard/blob/master/SoC_OpenCV-master/29.%20%5BAnkit   %5D%20Hough%20Line%20Transform%20using%20HoughLines%20method%20.md)
+   [Understand here](https://github.com/MananKGarg/SOC_20_Virtual_Keyboard/blob/master/SoC_OpenCV-master/29.%20%5BAnkit          %5D%20Hough%20Line%20Transform%20using%20HoughLines%20method%20.md)
+   
 25. Probabilistic Hough Line Transform using Hough Line Method
    [Understand here](https://github.com/MananKGarg/SOC_20_Virtual_Keyboard/blob/master/SoC_OpenCV-master/30.%20%5BAnkit%5D%20Probabilistic%20Hough%20Transform%20using%20HoughLinesP.md)
+   
 26. Road Lane Line Detection
 27. Circle Detection
    ```
